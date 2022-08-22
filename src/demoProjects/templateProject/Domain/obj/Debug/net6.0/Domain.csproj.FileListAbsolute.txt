@@ -1,0 +1,15 @@
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\bin\Debug\net6.0\Domain.dll
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\bin\Debug\net6.0\Core.Persistence.dll
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\bin\Debug\net6.0\Core.Persistence.pdb
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.dll
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Projects\nArchitecture\src\demoProjects\templateProject\Domain\obj\Debug\net6.0\ref\Domain.dll

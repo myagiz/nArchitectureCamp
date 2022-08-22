@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpOfiYc8EpvrzCuttzk6px1KdqS+T4QpelZRyYeDudtto+2zN0i4X8/zgb1p/DlDtiLIB5g7/L1CppuYjBpmVg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myagi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
